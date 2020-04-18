@@ -1,11 +1,15 @@
 {
-  "name": "calc-grpc",
+  "name": "@tomyjwu/calc-grpc",
   "version": "1.0.0",
-  "description": "call sample calc grpc",
+  "description": "client lib to call sample calc grpc",
   "main": "index.js",
   "scripts": {
     "testcli": "node testcli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomyjwu/calc-grpc.git"
   },
   "keywords": [
     "grpc"
