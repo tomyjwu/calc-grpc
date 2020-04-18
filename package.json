@@ -4,6 +4,7 @@
   "description": "call sample calc grpc",
   "main": "index.js",
   "scripts": {
+    "testcli": "node testcli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
